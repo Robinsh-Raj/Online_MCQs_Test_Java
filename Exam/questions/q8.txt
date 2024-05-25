@@ -1,0 +1,15 @@
+Which of the following classes belong to java.lang package?
+1. ArrayIndexOutOfBoundsException
+2. BufferedReader
+3. String
+4. System
+#
+3, 4
+#
+1, 3, 4
+#
+1,2
+#
+2,3,4
+#
+b

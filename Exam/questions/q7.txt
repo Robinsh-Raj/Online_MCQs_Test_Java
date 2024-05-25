@@ -1,0 +1,11 @@
+What is false about interface?
+#
+It contains only abstract methods and final fields
+#
+It can be extended by another interface.
+#
+It can be instantiated.
+#
+It can be implemented by a class.
+#
+c

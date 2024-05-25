@@ -1,0 +1,11 @@
+If X, Y are classes and L, M are interfaces, then which of the following is illegal in Java ?
+#
+class Y extends X implements L, M {}
+#
+class Y extends X {}
+#
+interface M extends L {}
+#
+interface M extends X {}
+#
+d

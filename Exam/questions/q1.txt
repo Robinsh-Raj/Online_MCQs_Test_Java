@@ -1,0 +1,14 @@
+What will be the output?
+String s = "abcdefgh";
+System.out.println(s.indexOf("j"));
+#
+true
+#
+false
+#
+-1
+#
+1
+#
+c
+        

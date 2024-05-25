@@ -1,0 +1,11 @@
+Instance variable is a variable \ndeclared in _____.
+#
+class and method
+#
+class
+#
+method
+#
+main()
+#
+b

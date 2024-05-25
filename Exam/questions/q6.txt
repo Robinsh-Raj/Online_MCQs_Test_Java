@@ -1,0 +1,11 @@
+What is false?
+#
+Abstract class should not contain constructor.
+#
+Reference of super class can refer to object of subclass.
+#
+Abstract class is created for inheritance purpose only.
+#
+The keyword super helps to access an overridden method.
+#
+a

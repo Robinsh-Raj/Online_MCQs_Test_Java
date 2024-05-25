@@ -1,0 +1,12 @@
+System.out.println(\"Hello\");
+Here, out is of ___ class.
+#
+PrintStream
+#
+String
+#
+System
+#
+PrintWriter
+#
+a

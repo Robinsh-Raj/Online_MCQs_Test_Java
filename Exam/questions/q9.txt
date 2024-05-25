@@ -1,0 +1,11 @@
+Which of the following statements is incorrect?
+#
+String is a class in Java.
+#
+Strings in java are mutable.
+#
+String class can not be inherited.
+#
+Java defines a class called StringBuffer, which allows string to be altered.
+#
+b
